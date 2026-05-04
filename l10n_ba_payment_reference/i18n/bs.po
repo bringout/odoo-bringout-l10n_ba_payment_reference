@@ -10,4 +10,4 @@ msgstr ""
 #. module: l10n_ba_payment_reference
 #: model:ir.model,name:l10n_ba_payment_reference.model_account_move
 msgid "Journal Entry"
-msgstr "Žurnal"
+msgstr "Stavka dnevnika"
