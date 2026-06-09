@@ -15,7 +15,7 @@ Syncs payment_reference/ref field to payable/receivable line name when updated.
 This ensures the payment communication field shows the correct reference.
 
 """,
-    "version": "16.0.1.0.0",
+    "version": "19.0.1.0.0",
     "author": "bring.out",
     'category': 'Localization',
     "website": "https://www.bring.out.ba",
